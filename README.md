@@ -24,6 +24,10 @@
 > 💡 **Still learing:** 
 **Java**
 
+---
+
 > 📫 **Contact:**
 *Discord:* `!             Toshinori#6192`
+
+---
 
