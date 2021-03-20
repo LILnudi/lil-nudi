@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @NoodieDEV
-- 👀 I’m interested in JavaScript, PHP, MYSQL, Node.js, C++
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on biiiiiiig project
-- 📫 Discord: !             Toshinori#6192
+# ⭐ About me ⭐
 
-<!---
-NoodieDEV/NoodieDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 👋 **Name:**
+*Toshinori (@NoodieDEV)*
+
+---
+
+> ⌨ **I like:**
+- `JavaScript`
+- `PHP`
+- `MYSQL`
+- `Node.js`
+- `C++`
+- `C#`
+- `Discord.js`
+- `Express`
+- `CSS`
+- `C`
+- `HTML`
+- `Python`
+
+---
+
+> 💡 **Still learing:** 
+**Java**
+
+> 📫 **Contact:**
+*Discord:* `!             Toshinori#6192`
+
