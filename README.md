@@ -5,7 +5,7 @@
 
 ---
 
-> ⌨ **I like:**
+> ⌨ **Codding in:**
 - `JavaScript`
 - `PHP`
 - `MYSQL`
@@ -27,7 +27,7 @@
 ---
 
 > 📫 **Contact:**
-*Discord:* `!             Toshinori#6192`
+*Discord:* `lil nudi#6192`
 
 ---
 
