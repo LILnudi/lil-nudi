@@ -27,7 +27,7 @@
 ---
 
 > 📫 **Contact:**
-*Discord:* `lil nudi#6192`
+*Discord:* `lil nudi#2557`
 
 ---
 
